@@ -1,0 +1,11 @@
+StartPos: (2, 2)
+
+TileDef: (0, "Grass.tile")
+TileSize: 64
+
+Tiles:
+,0,,0
+,0,,0
+
+0,,,,0
+,0,0,0

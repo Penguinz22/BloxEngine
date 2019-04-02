@@ -18,7 +18,6 @@ tmp/**/*
 local.properties
 .classpath
 .settings/
-shaders/
 .loadpath
 
 # External tool builders
